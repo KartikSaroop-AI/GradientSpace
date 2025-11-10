@@ -1,3 +1,12 @@
+<p align="center" style="margin:0; padding:0;">
+  <img 
+    src="https://github.com/KartikSaroop-AI/GradientSpace/blob/main/gradientspace.png.png" 
+    alt="GradientSpace Banner" 
+    width="1000" 
+    height="300" 
+    style="max-height:300px; object-fit:cover; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.2);"
+  />
+</p>
 
 <h1 align="center">📘 GradientSpace</h1>
 <p align="center"><i>A self-directed exploration of Machine Learning — where theory meets practice, and every experiment advances understanding.</i></p>
