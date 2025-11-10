@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/gradientspace_banner.svg" alt="GradientSpace — A Machine Learning Journal" width="100%">
-</p>
-
 
 <h1 align="center">📘 GradientSpace</h1>
 <p align="center"><i>A self-directed exploration of Machine Learning — where theory meets practice, and every experiment advances understanding.</i></p>
