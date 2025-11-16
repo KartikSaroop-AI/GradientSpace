@@ -77,7 +77,10 @@ It emphasizes the creation of **robust, reproducible pipelines** that serve as t
 - Cross-validation & Hyperparameter Tuning  
 
 📓 [Notebook: ML_Pipeline_Workflow.ipynb](Notebooks/ML_Pipeline_Workflow.ipynb)  
-📘 [Article: Building a Reproducible ML Pipeline.pdf](Docs/Building_a_Reproducible_ML_Pipeline.pdf)
+**Articles & Notes**
+- **01:** 🧾 *“The Essence of Generalization in Machine Learning Models”* &nbsp; 📘 [Read PDF](Docs/Generalization.pdf)
+- **02:** 🧾 *“From Pixels to Perception: Why Convolutional Neural Networks Outperform Traditional ANNs in Vision Tasks”* &nbsp; 📘 [Read PDF](Docs/CNNimportance.pdf)
+- **04:** 🧾 *“Preserving Spatial Information: The Importance of Padding in Convolutional Neural Networks”* &nbsp; 📘 [Read PDF](Docs/padding.pdf)
 
 ---
 
