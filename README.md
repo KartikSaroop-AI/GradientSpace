@@ -79,7 +79,7 @@ It emphasizes the creation of **robust, reproducible pipelines** that serve as t
 📓 [Notebook: ML_Pipeline_Workflow.ipynb](Notebooks/ML_Pipeline_Workflow.ipynb)  
 **Articles & Notes**
 - **01:** 🧾 *“The Essence of Generalization in Machine Learning Models”* &nbsp; 📘 [Read PDF](Docs/Generalization.pdf)
-- **02:** 🧾 *“From Pixels to Perception: Why Convolutional Neural Networks Outperform Traditional ANNs in Vision Tasks”* &nbsp; 📘 [Read PDF](Docs/CNNimportance.pdf)
+- **02:** 🧾 *“Error Dynamics in Machine Learning: Bias, Variance, and Generalization”* &nbsp; 📘 [Read PDF](Docs/biasvariance.pdf)
 - **04:** 🧾 *“Preserving Spatial Information: The Importance of Padding in Convolutional Neural Networks”* &nbsp; 📘 [Read PDF](Docs/padding.pdf)
 
 ---
