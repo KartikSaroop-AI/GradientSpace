@@ -75,12 +75,16 @@ It emphasizes the creation of **robust, reproducible pipelines** that serve as t
 - Model Evaluation Metrics (Accuracy, Precision, Recall, F1, ROC-AUC)  
 - Cross-validation & Hyperparameter Tuning  
 
-📓 [Notebook: ML_Pipeline_Workflow.ipynb](Notebooks/ML_Pipeline_Workflow.ipynb)  
+**Experiments:**
+
+- 🧩 *Experiment 1:* *"Feature Scaling Analysis on the Breast Cancer Dataset"*  [Featurescaling.ipynb](Notebooks/Featurescaling.ipynb)
+- 🧩 *Experiment 2:* TensorFlow Callbacks (EarlyStopping & ModelCheckpoint)  [mnist_callbacks.ipynb](Experiments/mnist_callbacks.ipynb)
 
 **Articles & Notes:**
 - **01:** 🧾 *“The Essence of Generalization in Machine Learning Models”* &nbsp; 📘 [Read PDF](Docs/Generalization.pdf)
 - **02:** 🧾 *“Error Dynamics in Machine Learning: Bias, Variance, and Generalization”* &nbsp; 📘 [Read PDF](Docs/biasvariance.pdf)
 - **03:** 🧾 *“Regularization: Controlling Complexity in Machine Learning”* &nbsp; 📘 [Read PDF](Docs/Regularization.pdf)
+- **04:** 🧾 *“Feature Scaling in Machine Learning”* &nbsp; 📘 [Read PDF](Docs/featurescaling.pdf)
 
 ---
 
